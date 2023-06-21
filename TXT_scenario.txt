@@ -18,3 +18,4 @@ TXT
  15. Сделать Commit changes (сохранить) изменения на веб интерфейсе: [Commit changes...] Button > [Commit changes] Button
  16. На веб интерфейсе модифицировать файл bug_report.txt, добавить баг репорт в формате TXT: Choose bug_report.txt > Edit this file button
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе: [Commit changes...] Button > [Commit changes] Button
+ 18. Синхронизировать внешний и локальный репозиторий TXT: git pull
