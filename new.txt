@@ -1,8 +1,4 @@
-
-		"Full name": "Daria Martinovskaya",
-		"Age": "27 y.o.",
-		"Pets' number": "two",
-		"Expected salary": "from 1000 Euro net[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[[D[[D[C[[[D[D[[B[A[A[B[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[B[A[C[C[B[[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[D[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[AFull name: Daria Martinovskaya
+Full name: Daria Martinovskaya
 Age: 27 y.o.
 Pets' number: two
 Expected salary: from 1000 Euro net
