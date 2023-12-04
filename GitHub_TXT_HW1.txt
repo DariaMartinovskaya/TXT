@@ -14,7 +14,7 @@ TXT
  11. Create sklls.txt file and add information about skills to be learnt during the course in TXT format: touch skills.txt; cat > touch.txt => "Input data" => Ctrl + C
  12. Make a commit in one line: git add . && git commit -m "2Files" 
  13. Send 2 files to external repository at the same time: git push
- 14. На веб интерфейсе создать файл bug_report.txt: Web Git Hub => Repositories => "XML" => Click [Add file] Button => Choose "Create new file" => Name of the file: "bug_report.txt"
+ 14. Create bug_report.txt file on the web interface: Web Git Hub => Repositories => "XML" => Click [Add file] Button => Choose "Create new file" => Name of the file: "bug_report.txt"
  15. Commit changes (save) on the web interface: [Commit changes...] Button => [Commit changes] Button
  16. Modify bug_report.txt file on the web interface, add bug report in TXT format: Choose bug_report.txt => Edit this file button
  17. Commit changes (save) on the web interface: [Commit changes...] Button => [Commit changes] Button
